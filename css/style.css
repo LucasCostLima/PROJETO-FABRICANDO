@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+div.logo-image {
+  align-items: center;
+  padding-left: 45%;
+}
+
+section.header {
+  width: 100%;
+  background-color: red;
+  padding: 0px;
+  align-content: center;
+  justify-content: center;
+  display: flex;
+  gap: 20px;
+}
